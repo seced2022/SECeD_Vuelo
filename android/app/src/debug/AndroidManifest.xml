@@ -64,7 +64,7 @@
     </queries>
 		 
     <application
-        android:label="VDO.Ninja"
+        android:label="SECeD_Vuelo"
         android:icon="@mipmap/ic_launcher">
 		
         <meta-data
