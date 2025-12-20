@@ -41,9 +41,9 @@ dev_dependencies:
 dependency_overrides:
   win32: ^5.5.4
 
+qr_flutter: ^4.1.0
+webview_flutter: ^4.8.0
+
+
 flutter:
   uses-material-design: true
-
-  qr_flutter: ^4.1.0
-  webview_flutter: ^4.8.0
-
