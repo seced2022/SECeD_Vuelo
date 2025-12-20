@@ -32,10 +32,7 @@ dependencies:
   tuple: ^2.0.2
   device_info_plus: ^11.0.0
 
-  flutter_background:
-    git:
-      url: https://github.com/steveseguin/flutter_background/
-      ref: master
+
 
   qr_flutter: ^4.1.0
 
