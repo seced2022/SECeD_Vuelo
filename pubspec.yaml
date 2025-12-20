@@ -17,11 +17,7 @@ dependencies:
   http: ^1.1.0
   path_provider: ^2.0.2
 
-  wakelock:
-    git:
-      url: https://github.com/steveseguin/wakelock
-      ref: main
-      path: wakelock
+  wakelock_plus: ^1.1.4
 
   js: ^0.7.1
   share: ^2.0.4
